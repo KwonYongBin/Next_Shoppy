@@ -1,0 +1,2 @@
+rootProject.name = 'next-shoppy-springboot'
+include 'backend'
